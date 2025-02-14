@@ -20,7 +20,7 @@ export default function DidYouKnowCard({ question, answer, isOpen, onClick }: Di
       onMouseLeave={() => setIsHovered(false)}
       onClick={onClick}
     >
-      <h3 className="text-lg font-semibold">Did You Know?</h3>
+      <h3 className="text-lg font-semibold">Flashcard</h3>
       <p>{isOpen ? answer : question}</p>
       <p className="text-sm text-gray-600 mt-2">{isOpen ? "Click to close" : "Click to reveal"}</p>
     </div>
