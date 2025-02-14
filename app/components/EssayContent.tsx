@@ -10,7 +10,7 @@ import { RenderMarkdown } from "./MarkdownRenderer"
 // <TooltipCard term="..." definition="..." />
 
 const essayContent = `
-# Redefining american ideals: african american and women's activism from 1890 to 1929
+# Redefining American ideals: African American and women's activism from 1890 to 1929
 
 Between 1890 and 1929, African Americans and women in the United States not only fought against oppressive systems but also changed the nation's ideas about freedom and equality. Through persistent activism and contributions, these marginalized groups exposed the contradictions between America's stated democratic ideals and its discriminatory practices. I make an argument that their efforts during this period redefined American identity by pushing society to rethink views on race and gender.
 
@@ -32,7 +32,7 @@ During a time of widespread racial violence lynching used to terrorize African A
 
 In response to ongoing oppression, African Americans worked to redefine their identity and claim their rights. The <TooltipCard term="Universal Negro Improvement Association (UNIA)" definition="An organization founded by [Marcus Garvey](https://en.wikipedia.org/wiki/Marcus_Garvey) in 1914 to establish a sense of pride and unity among people of African descent worldwide, advocating for economic self-sufficiency and the establishment of an independent Black nation." src="https://cdn.britannica.com/66/115666-050-F4556AD6/Marcus-Garvey-session-Universal-Negro-Improvement-Association-1924.jpg?w=400&h=300&c=crop" caption="Marcus Garvey" /> aimed to encourage racial pride, economic independence, and the formation of an independent Black nation. In the **"Explanation of the Objects of the Universal Negro Improvement Association" (1921)**, the UNIA outlined these goals, stating it was organized *"for the absolute purpose of bettering our condition, industrially, commercially, socially, religiously and politically"*.
 
-## The "New Negro" movement: redefining african american identity
+## The "New Negro" movement: redefining African American identity
 
 ![Harlem Renaissance](https://assets.editorial.aetnd.com/uploads/2009/10/topic-harlem-renaissance-gettyimages-517322608.jpg)
 
@@ -58,7 +58,7 @@ Between 1890 and 1929, African Americans and women fundamentally challenged and 
 
 - Universal Negro Improvement Association. **"Explanation of the Objects of the Universal Negro Improvement Association."** (1921). [*American Yawp Reader link*](http://www.americanyawp.com/reader/20-the-progressive-era/explanation-of-the-objects-of-the-universal-negro-improvement-association-1921/).
 
-## Resources
+## Resources used
 
 - **Lynching Laws Image**: [A&E Networks](https://assets.editorial.aetnd.com/uploads/2019/01/lynching-laws-1930s-getty_514901756_feature.jpg?width=768)  
 - **Ida B. Wells-Barnett**: [National Women's History Museum](https://www.womenshistory.org/education-resources/biographies/ida-b-wells-barnett)  
