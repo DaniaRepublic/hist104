@@ -1,4 +1,5 @@
 export const text = `
+# Analysis 1
 # Redefining American ideals: African American and women's activism from 1890 to 1929
 
 Between 1890 and 1929, African Americans and women in the United States not only fought against oppressive systems but also changed the nation's ideas about freedom and equality. Through persistent activism and contributions, these marginalized groups exposed the contradictions between America's stated democratic ideals and its discriminatory practices. I make an argument that their efforts during this period redefined American identity by pushing society to rethink views on race and gender.

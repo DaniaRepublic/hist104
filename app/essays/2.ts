@@ -1,7 +1,7 @@
 export const text = `
+# Analysis 2
 # The Fight for a Fair and Free America (1929 to 1963)
 
-## A Fight for Fairness  
 Between 1929 and 1963, America faced many challenges as it tried to live up to its promise of freedom and fairness. This period shows how the country struggled with economic hardship, racial injustice, and political repression-issues that still affect us today.
 
 ## Economic Hardship During the Great Depression  
