@@ -1,9 +1,11 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
     <div >
       <ol>
-        <li><a href="/analysis/1">Analysis 1</a></li>
-        <li><a href="/analysis/2">Analysis 2</a></li>
+        <li><Link href="/analysis/1">Analysis 1</Link></li>
+        <li><Link href="/analysis/2">Analysis 2</Link></li>
       </ol>
     </div>
   )

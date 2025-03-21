@@ -1,4 +1,3 @@
-import { RenderMarkdown } from "@/app/components/MarkdownRenderer";
 import { text as post1 } from "../../essays/1.ts";
 import { text as post2 } from "../../essays/2.ts"
 import EssayContent from "@/app/components/EssayContent";
