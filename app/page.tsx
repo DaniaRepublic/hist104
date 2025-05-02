@@ -6,6 +6,7 @@ export default function Home() {
       <ol>
         <li><Link href="/analysis/1">Analysis 1</Link></li>
         <li><Link href="/analysis/2">Analysis 2</Link></li>
+        <li><Link href="/analysis/3">Analysis 3</Link></li>
       </ol>
     </div>
   )
