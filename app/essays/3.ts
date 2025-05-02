@@ -1,33 +1,35 @@
 export const text = `
 # Analysis 3
 
-# America's Changing Expectations of Federal Government (1929 - 1963)
+# Grassroots Struggles for Inclusion in American Democracy
 
-Between 1929 and 1963, Americans came to expect a more active federal government. They saw that wartime mobilization could bring people together but also reveal divisions. By the early 1960s, a new generation was calling for economic fairness. The New Deal's relief and reform programs changed how citizens and the government interacted. 
+Since 1963, American democracy has changed in big ways because of movements led by everyday people fighting for inclusion. Each wave-civil-rights activists asking for voting rights, feminists pushing for equal opportunities, and today's LGBTQ⁺ advocates demanding marriage equality-shares the same basic idea: that everyone deserves equal dignity. By looking at four key moments of activism, we can see a pattern. These movements all refer to the Constitution, but over time, more people are included in the meaning of "We the People."
 
-## Crisis and Reconstruction 
+## 1. Fannie Lou Hamer's Testimony (1964)
+At the 1964 Democratic National Convention, Fannie Lou Hamer gave a powerful speech representing poor Black workers in Mississippi. She described how she was jailed and beaten just for trying to vote. Her line, "I'm sick and tired of being sick and tired," forced the Democratic Party to pay attention to Black Americans' struggles. Her voice helped lead to the Voting Rights Act of 1965. This shows how personal stories can lead to big changes in national laws.
 
-When the stock market crashed in 1929, millions lost their jobs and life savings. This shook people's belief in a hands-off government. President Franklin D. Roosevelt's New Deal that offered large-scale programs  like the Civilian Conservation Corps and the Social Security Act to give relief and secure long term support. For the first time, most Americans turned to Government for help. The Second New Deal added higher income taxes on the wealthy, helped homeowners refinance loans, boosted aid for rural areas. These steps not only brought the country back from disaster but also changed the idea of citizenship: everyone now had a place in a government-backed safety net.
+## 2. NOW's Statement of Purpose (1966)
+In 1966, the National Organization for Women (NOW) released a document that brought together many complaints about how women were treated. They argued that real equality for women would require big changes in society-not just small fixes. They wanted workplace rights, control over their own bodies, and more respect in general. Like the civil-rights movement, NOW's message helped widen the idea of who is fully included in American democracy.
 
-## Wartime Mobilization and Postwar Consensus 
+## 3. Jesse Jackson's Rainbow Coalition (1984)
+In 1984, Jesse Jackson gave a speech about building a "Rainbow Coalition"-a political group made up of people from different races, genders, and economic backgrounds. He said that what unites us is stronger than what divides us. His message showed how newer movements were learning to work together, building alliances instead of focusing on just one issue.
 
-After Pearl Harbor in 1941, federal agencies like the War Production Board shifted factories to make tanks instead of cars and rationed goods so soldiers had them for priority. This "total mobilization" ended Depression unemployment and proved that government action could drive fast economic growth. But it also exposed deep inequalities. Women and African Americans stepped in to fill vital roles, yet after the war they returned to limited jobs. Meanwhile, civil-rights leaders like Fannie Lou Hamer highlighted the injustice of fighting for freedom abroad while Black Americans still faced discrimination at home. In her 1964 Democratic Convention testimony, Hamer asked, "Is this America, the land of the free and the home of the brave?" a reminder that service and work did not guarantee full citizenship.
+## 4. Obergefell v. Hodges (2015)
+In 2015, the Supreme Court ruled in Obergefell v. Hodges that same-sex couples have the right to marry. The Court used the Fourteenth Amendment to say that all couples deserve equal protection under the law. This decision extended ideas of dignity and equality from earlier civil-rights fights to LGBTQ⁺ people. It showed both continuity and progress-drawing from past values while including new groups.
 
-## Emergence of the New Left 
+## How these moments work together
 
-By the late 1950s, many young people grew tired of Cold War. They formed Students for a Democratic Society (SDS). In their 1962 Port Huron Statement, Tom Hayden said the New Deal had the power to bring justice but left real democracy weak. They argued democracy was more than voting - and it meant active participation in workplaces, schools, communities. Their critique challenged the postwar consensus, showing how central control could leave people feeling cut off. Barbara Jordan, reflecting on her life in the segregated South, noted that more government involvement carried both hope and risk and that true equality needed constant effort and engagement.
+Shared Values: Each movement regardless if about race, gender, or sexuality has used the nation's founding ideals to demand equal rights.
 
-## Conclusion
+Growing "We the People": Over time, more groups were included. Different moments used different strategies: speeches, documents, protests, or court cases.
 
-From the rescue plans of the 1930s to the student protests of the early 1960s, Americans relied on government and held it to high standards. The New Deal set a new level of federal involvment, World War II showed both the strengths and limits of central control, and the Port Huron Statement offered a fair vision of democracy. Together, these moments showed how crises shaped modern expectations of government and motivated a generation to push America to meet its own ideals.
+Changing Institutions: These movements pushed change in all parts of government-Congress, the courts, political parties, and federal agencies.
 
-## Works Cited
+Together, these stories show a back-and-forth pattern between people demanding change and the government responding. From the civil rights movement to marriage equality, the fight for inclusion keeps evolving-and it's still not finished. This idea will guide the rest of our project, using real documents to help readers think about what "inclusion" means today.
 
-- Dorothy West, "Amateur Night in Harlem," American Yawp Reader
-- "Second New Deal," American Yawp
-- "World War II," American Yawp
-- Fannie Lou Hamer, "Testimony at the Democratic National Convention," American Yawp Reader 
-- Port Huron Statement (1962), American Yawp Reader 
-- Barbara Jordan, "1976 Democratic National Convention Keynote Address," American Yawp Reader 
-- Pat Buchanan, "On the Culture War (1992)", American Yawp Reader
+## Works cited (from American Yawp Reader):
+- Hamer, Fannie Lou. "Testimony at the Democratic National Convention," August 1964.
+- National Organization for Women. "Statement of Purpose," 1966.
+- Jackson, Jesse. "Rainbow Coalition Speech," 1984.
+- Obergefell v. Hodges, 576 U.S. (2015).
 `
